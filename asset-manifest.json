@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-quantumcircuit-simulator/static/css/main.a2b53aa4.css",
+    "main.js": "/react-quantumcircuit-simulator/static/js/main.a0bc6fbf.js",
+    "static/js/787.b701888c.chunk.js": "/react-quantumcircuit-simulator/static/js/787.b701888c.chunk.js",
+    "index.html": "/react-quantumcircuit-simulator/index.html",
+    "main.a2b53aa4.css.map": "/react-quantumcircuit-simulator/static/css/main.a2b53aa4.css.map",
+    "main.a0bc6fbf.js.map": "/react-quantumcircuit-simulator/static/js/main.a0bc6fbf.js.map",
+    "787.b701888c.chunk.js.map": "/react-quantumcircuit-simulator/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b53aa4.css",
+    "static/js/main.a0bc6fbf.js"
+  ]
+}
