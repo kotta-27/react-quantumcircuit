@@ -1,5 +1,6 @@
 {
   "name": "react-app",
+  "homepage": "https://kotta-27.github.io/react-quantumcircuit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,6 +23,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "deploy": "npm run build && gh-pages -d build -m \"Updates --skip-ci\"",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,6 +49,7 @@
   },
   "devDependencies": {
     "chart.js": "^4.4.0",
+    "gh-pages": "^6.1.1",
     "react-chartjs-2": "^5.2.0"
   }
 }
